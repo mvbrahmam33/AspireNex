@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/FaceDetactionAndRecognition/DatasetCreationUsingPython" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/FaceDetactionAndRecognition/FaceDetectionAndRecognitionUsingJava" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/TicTacToeAI/AspireNex" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/TicTacToeAI/GameUi" vcs="Git" />
+  </component>
+</project>
